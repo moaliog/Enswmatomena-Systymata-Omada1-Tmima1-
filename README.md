@@ -47,4 +47,4 @@ The following table details how the components (motors, sensors, and buttons) ar
 1. Clone the repository to your local machine:
 2. 
    ```bash
-   git clone [https://github.com/moaliog/Enswmatomena-Systymata-Omada1-Tmima1-.git](https://github.com/moaliog/Enswmatomena-Systymata-Omada1-Tmima1-.git)
+   git clone [[https://github.com/moaliog/Enswmatomena-Systymata-Omada1-Tmima1-.git](https://github.com/moaliog/Enswmatomena-Systymata-Omada1-Tmima1-.git](https://github.com/moaliog/Enswmatomena-Systymata-Omada1-Tmima1-/blob/main/main.cpp/main.cpp.ino))
